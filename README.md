@@ -1,8 +1,9 @@
 # README
 This repository is used to populate a database with data to test the database queries needed for 
-the candidate tests of Secret-Source.
+the candidate tests of Secret-Source. This is only for testing purposes and you don't need to have it 
+working on your computer. 
 
-To use this repository you need to have rails installed in your computer.
+To use this repository you need to have rails installed on your computer.
 
 ## Installing rails
 Before you install Rails, you should check to make sure that your system has the proper prerequisites installed.
@@ -20,3 +21,6 @@ the information in the seed file - <b>rails db:seed</b>.
 
 ## There we go
 Everything is set to start working on your queries. Good luck, and most important... <b>enjoy</b>.
+
+###### Note
+You should have also the SQL script provided by Secret Source to generate the data to test your solutions. In case you don't have this, please ask for the script.
